@@ -9,13 +9,21 @@ A collaborative space for past, current, and future IMF Data Science students an
 - Student projects and final project (TFM) references
 - Portfolio, interview, and job-search resources
 
-## Repository structure
+## Future-friendly structure
 
-- resources/ — learning material by subject
-- exercises/ — practice work and solutions
-- projects/ — student projects and final-project references
-- datasets/ — documented datasets or dataset links
-- career/ — portfolio, interviews, and job resources
+```text
+resources/
+  python/ sql/ statistics/ machine-learning/ artificial-intelligence/
+  data-visualization/ power-bi/ big-data/
+exercises/
+projects/
+  student-projects/ final-projects-tfm/
+datasets/
+career/
+  portfolio/ interviews/ job-resources/
+```
+
+Each contribution should include a short README explaining its purpose, setup, data source, and license.
 
 ## Contributing
 
