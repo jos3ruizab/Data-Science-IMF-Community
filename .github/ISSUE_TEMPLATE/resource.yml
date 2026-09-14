@@ -1,0 +1,16 @@
+name: Resource suggestion
+description: Suggest a useful learning resource
+title: "[Resource] "
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+    validations:
+      required: true
